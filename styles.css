@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.container {
+    text-align: center;
+   
+}
+
+.quote {
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-style: italic;
+}
+#button{
+    background-color: cyan;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+button:hover {
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+}
+#heading{
+    color: brown;
+}
